@@ -1,4 +1,4 @@
-# DSA 🚀
+# DSA-Practice 🚀
 
 This repository contains Java solutions to common DSA problems I'm solving daily to prepare for placements.
 
