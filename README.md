@@ -9,6 +9,8 @@ This repository contains Java solutions to common DSA problems I'm solving daily
 - ✅ Sort 0's 1's and 2's
 - ✅ Maximum Subarray Sum[Kadane's Algorithm]
 - ✅ Union of arrays with duplicates
+- ✅ Majority Element Nby3
+
 - ⏳ More coming...
 
 Follow along 💻 as I solve and grow!
